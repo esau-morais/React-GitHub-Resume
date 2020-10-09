@@ -4,13 +4,15 @@
 
 ## Tabla de contenidos
 
-- [Sobre](#sobre)
-- [Construido con](#construido-con)
-- [Instalación](#instalación)
-- [Demo](#demo)
+- [Sobre](#about)
+- [Construido con](#built-withh)
+- [Instalación](#installation)
+- [Demo](#live-demo)
+  <br>
 
-<br>
+### 🌎 _Leer en [otros idiomas](./Translations.md)_
 
+<<<<<<< HEAD
 ### 🌎 *Leer en [otros idiomas](./translations/Translations.md)*
 
 <br>
@@ -23,15 +25,18 @@
 <br>
 
 ## 🤔 Sobre
+=======
+<h2 id='about'>🤔 Sobre</h2>
+>>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
 
 El objetivo de este repositorio es generar un currículum de Github para cada usuario de github.
 
-## 🛠️ Construido con
+<h2 id='built-with'>🛠️ Construido con</h2>
 
 - [React JS](https://reactjs.org/) - Biblioteca Front-End JavaScript
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Instalación
+<h2 id='installation'>Instalación</h2>
 
 Para configurar la aplicación para el desarrollo en su máquina local, siga las instrucciones a continuación:
 
@@ -72,10 +77,14 @@ cd React-GitHub-Resume
 
 4. Visita <http://localhost:3000>
 
-## [Demo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Demo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
 ## 📄 Licencia
 
+<<<<<<< HEAD
 Este proyecto tiene la licencia del MIT; consulte el archivo [LICENSE](../LICENSE) para obtener más detalles
+=======
+Este proyecto tiene la licencia del MIT; consulte el archivo [LICENCIA](../LICENSE) para obtener más detalles
+>>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
