@@ -12,22 +12,7 @@
 
 ### 🌎 _Leer en [otros idiomas](./Translations.md)_
 
-<<<<<<< HEAD
-### 🌎 *Leer en [otros idiomas](./translations/Translations.md)*
-
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> Upcoming
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-
-<br>
-
-## 🤔 Sobre
-=======
 <h2 id='about'>🤔 Sobre</h2>
->>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
 
 El objetivo de este repositorio es generar un currículum de Github para cada usuario de github.
 
@@ -83,8 +68,5 @@ cd React-GitHub-Resume
 
 ## 📄 Licencia
 
-<<<<<<< HEAD
-Este proyecto tiene la licencia del MIT; consulte el archivo [LICENSE](../LICENSE) para obtener más detalles
-=======
 Este proyecto tiene la licencia del MIT; consulte el archivo [LICENCIA](../LICENSE) para obtener más detalles
->>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
+
