@@ -4,13 +4,14 @@
 
 ## Sumário
 
-- [Sobre](#sobre)
-- [Feito com](#feito-com)
-- [Instalação](#instalação)
-- [Demo](#demo)
+- [Sobre](#about)
+- [Feito com](#built-with)
+- [Instalação](#installation)
+- [Demo](#live-demo)
 
 <br>
 
+<<<<<<< HEAD
 ### *Leia em [outras línguas](./Translations.md)*
 
 <br>
@@ -23,15 +24,20 @@
 <br>
 
 ## Sobre
+=======
+### 🌎 _Leia em [outras línguas](./Translations.md)_
+
+<h2 id='about'>🤔 Sobre</h2>
+>>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
 
 O objetivo deste repositório é gerar um resumo do GitHub para cada usuário do github.
 
-## Feito com 🛠️
+<h2 id='built-with'>🛠️ Feito com</h2>
 
 - [React JS](https://reactjs.org/) - Biblioteca Front-End JavaScript
 - [Material UI](https://material-ui.com/) - Framework do React para UI
 
-## Instalação
+<h2 id='installation'>Instalação</h2>
 
 Para configurar o app para desenvolvimento na sua máquina, siga as instruções abaixo:
 
@@ -72,11 +78,17 @@ cd React-GitHub-Resume
 
 4. Visite <http://localhost:3000>
 
-## [Demo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Demo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
+<<<<<<< HEAD
 ## 📄 License
 
 Este projeto está licenciado com a Licença do MIT - consulte o arquivo [LICENÇA](../LICENSE) para obter detalhes
 
+=======
+## 📄 Licença
+
+Este projeto está licenciado com a Licença do MIT - consulte o arquivo [LICENÇA](../LICENSE) para obter detalhes
+>>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7

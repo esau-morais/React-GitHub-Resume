@@ -15,23 +15,41 @@
 
 <br>
 
+<<<<<<< HEAD
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> Upcoming
 <kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
 <kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
+=======
+<kbd>[<img title="French" alt="French" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" height="14">](./translations/README.fr.md)</kbd> Upcoming
+<kbd>[<img title="Spanish" alt="Spanish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" height="14">](./translations/README.es.md)</kbd>
+<kbd>[<img title="German" alt="German" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" height="14">](./translations/README.de.md)</kbd> Upcoming
+<kbd>[<img title="Portuguese (Brasil)" alt="Portuguese (Brasil)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" height="14">](./translations/README.pt_br.md)</kbd>
+<kbd>[<img title="Polish" alt="Polish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" height="14">](./translations/README.pl.md)</kbd>
+<kbd>[<img title="Ukrainian" alt="Ukrainian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ua.svg" height="14">](./translations/README.uk.md)</kbd>
+<kbd>[<img title="Russian" alt="Russian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" height="14">](./translations/README.ru.md)</kbd>
+<kbd>[<img title="Italian" alt="Italian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" height="14">](./translations/README.it.md)</kbd>
+<kbd>[<img title="Telugu" alt="Telugu" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" height="14">](./translations/README.te.md)</kbd>
+<kbd>[<img title="Czech" alt="Czech" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" height="14">](./translations/README.cs.md)</kbd>
+<kbd>[<img title="Tamil" alt="Tamil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" height="14">](./translations/README.ta.md)</kbd>
+<kbd>[<img title="Indonesian" alt="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" height="14">](./translations/README.id.md)</kbd>
+<kbd>[<img title="Sinhala" alt="Sinhala" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" height="14">](./translations/README.si.md)</kbd>
+<kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" height="14">](./translations/README.bg.md)</kbd>
+<kbd>[<img title="Chinese" alt="Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" height="14">](./translations/README.zh.md)</kbd>
+>>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
 
 <br>
 
-## 🤔 About
+<h2 id='about'>🤔 About</h2>
 
 Aim of this repository is to generate `Github Resume` for each github users.
 
-## 🛠️ Built with
+<h2 id='built-with'>🛠️ Built with</h2>
 
 - [React JS](https://reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Installation
+<h2 id='installation'>Installation</h2>
 
 To setup the app for development on your local machine, please follow the instructions below:
 
@@ -72,7 +90,7 @@ cd React-GitHub-Resume
 
 4. Visit <http://localhost:3000>
 
-## [Live Demo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Live Demo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
