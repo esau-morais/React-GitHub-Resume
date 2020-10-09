@@ -11,24 +11,9 @@
 
 <br>
 
-<<<<<<< HEAD
-### *Leia em [outras línguas](./Translations.md)*
-
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd>
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd>
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-
-<br>
-
-## Sobre
-=======
 ### 🌎 _Leia em [outras línguas](./Translations.md)_
 
 <h2 id='about'>🤔 Sobre</h2>
->>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
 
 O objetivo deste repositório é gerar um resumo do GitHub para cada usuário do github.
 
@@ -82,13 +67,6 @@ cd React-GitHub-Resume
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
-<<<<<<< HEAD
-## 📄 License
-
-Este projeto está licenciado com a Licença do MIT - consulte o arquivo [LICENÇA](../LICENSE) para obter detalhes
-
-=======
 ## 📄 Licença
 
 Este projeto está licenciado com a Licença do MIT - consulte o arquivo [LICENÇA](../LICENSE) para obter detalhes
->>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
