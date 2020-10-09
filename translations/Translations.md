@@ -1,14 +1,5 @@
 # Translations
 
-<<<<<<< HEAD
-|                                                                                                                                                                                                                                                                             | Translated Link                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <img alt="Français" title="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">                                                                                                                                               | [Français](README.fr.md)                                              |
-| <img alt="Español" title="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">                                                                                                                                                 | [Español](README.es.md)                                               |
-| <img alt="Deutsch" title="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">                                                                                                                                                 | [Deutsch](README.de.md)                                               |
-| <img alt="Português (Brasil)" title="Português (Brasil)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">                                                                                                                           | [Português (Brasil)](README.pt_br.md)                                 |
-| <img alt="Polski" title="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">                                                                                                                           | [Polski](README.pl.md)                                 |
-=======
 |                                                                                                                                                   | Translated Link                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | <img alt="French" title="French" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">                     | [Français](README.fr.md)              |
@@ -26,4 +17,3 @@
 | <img alt="Sinhala" title="Sinhala" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">                         | [සිංහල](./README.si.md)               |
 | <img alt="Bulgarian" title="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">                         | [Български](./README.bg.md)               |
 | <img alt="Chinese" title="Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">                         | [中文](./README.zh.md)               |
->>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
