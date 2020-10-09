@@ -15,12 +15,6 @@
 
 <br>
 
-<<<<<<< HEAD
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> Upcoming
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-=======
 <kbd>[<img title="French" alt="French" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" height="14">](./translations/README.fr.md)</kbd> Upcoming
 <kbd>[<img title="Spanish" alt="Spanish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" height="14">](./translations/README.es.md)</kbd>
 <kbd>[<img title="German" alt="German" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" height="14">](./translations/README.de.md)</kbd> Upcoming
@@ -36,7 +30,6 @@
 <kbd>[<img title="Sinhala" alt="Sinhala" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" height="14">](./translations/README.si.md)</kbd>
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" height="14">](./translations/README.bg.md)</kbd>
 <kbd>[<img title="Chinese" alt="Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" height="14">](./translations/README.zh.md)</kbd>
->>>>>>> e8598ecf5f52fe35f825f19b161f2f25cd3902e7
 
 <br>
 
